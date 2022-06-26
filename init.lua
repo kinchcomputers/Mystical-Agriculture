@@ -1,4 +1,4 @@
-local modpath = minetest.get_modpath("mystical_agriculture")
+local modpath = minetest.get_modpath("mystical_agriculture2022")
 
 dofile(modpath.."/nodes.lua")
 dofile(modpath.."/items.lua")
@@ -98,7 +98,8 @@ skytest:bedrockium_ingot
 ]]--
 
 
---[[Adamantine
+--[[
+Adamantine
 Aluminum
 Aluminum Brass
 Apatite
